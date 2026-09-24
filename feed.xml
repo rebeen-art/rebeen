@@ -3,27 +3,54 @@
     <title>rebeen.art</title>
     <link href="https://rebeen-art.github.io/rebeen/feed.xml" rel="self" />
     <link href="https://rebeen-art.github.io/rebeen" />
-    <updated>2026-09-23T15:54:15+02:00</updated>
+    <updated>2026-09-24T23:50:50+02:00</updated>
     <author>
         <name>Rebeen Hamarafiq</name>
     </author>
     <id>https://rebeen-art.github.io/rebeen</id>
 
     <entry>
-        <title>Dropping Art Works </title>
+        <title>Bio</title>
         <author>
             <name>Rebeen Hamarafiq</name>
         </author>
-        <link href="https://rebeen-art.github.io/rebeen/dropping-art-works.html"/>
-        <id>https://rebeen-art.github.io/rebeen/dropping-art-works.html</id>
-        <media:content url="https://rebeen-art.github.io/rebeen/media/posts/2/IMG_8669-2.JPG" medium="image" />
+        <link href="https://rebeen-art.github.io/rebeen/bio.html"/>
+        <id>https://rebeen-art.github.io/rebeen/bio.html</id>
+            <category term="About"/>
 
-        <updated>2026-09-22T22:07:42+02:00</updated>
+        <updated>2026-09-24T23:36:09+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Rebeen Hamarafiq Also known as Rebeen Majeed A Kurdish Iraqi artist, curator, and researcher who has dedicated his work to exploring the relationship between&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Rebeen Hamarafiq </h1>
+<p><br>Also known as Rebeen Majeed</p>
+<p>A Kurdish Iraqi artist, curator, and researcher who has dedicated his work to exploring the relationship between daily living and art, the social construction of power and meaning, the body's reaction to norms and modern living, and the re-habitation of Iraqi society after random destruction by wars and the fast changes of the after Saddam’s era.</p>
+<p>He studied MFA Fine Art at Goldsmiths, London and has exhibited his work nationally and internationally, including at Showroom London, Alternativa Gdansk, Cal Art LA, and Museo di Roma in Trastevere. He has also curated several projects, including Dado, Sulaymanyah, video zoom Kurdistan Iraq, Museo di Roma in Trastevere, and "Are We Addicted?" - a one-year project inside a culture factory.</p>
+<p>In addition to his work as an artist and curator, he has published articles on visual culture in local magazines and his latest article was published in Genocide Studies International by University of Toronto Press. He has received several grants and residencies, including the Spotlight Iraq award by Goethe Institute and a Live Art and ArtsAdmin residency in London.</p>
+<p>His relation with art started when he was six years old and had to accompany his blind uncle to sell cigarettes and other goods in front of the Institute of Fine Art - the only place to study art in Iraqi Kurdistan. In 1994, he became a student at the same institute. His relation to the intellectual body was mainly through his family, who were secretly part of the communist groups in the city. The year he became a student at the institute was the start of the civil war between Kurdish parties, which destroyed the utopian dream of nationalism, democracy, communism, and all other dreams built around the little Kurdish government. It was also the start of a new type of thinking among smaller groups of artists, poets, writers, and activists, who gathered to make exhibitions, activities, and seminars. His works were located outside the main parties' opposed agendas spread through cultural bodies.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Rebeen Hamarafiq</title>
+        <author>
+            <name>Rebeen Hamarafiq</name>
+        </author>
+        <link href="https://rebeen-art.github.io/rebeen/rebeen-hamarafiq.html"/>
+        <id>https://rebeen-art.github.io/rebeen/rebeen-hamarafiq.html</id>
+        <media:content url="https://rebeen-art.github.io/rebeen/media/posts/3/2-A-walk-from-and-to-home-face-book-jpg-2.jpg" medium="image" />
+
+        <updated>2026-09-24T21:11:12+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://rebeen-art.github.io/rebeen/media/posts/2/IMG_8669-2.JPG" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image post__image--full"><img loading="lazy"  src="https://rebeen-art.github.io/rebeen/media/posts/2/IMG_8669.JPG" alt="" width="948" height="1264" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://rebeen-art.github.io/rebeen/media/posts/2/responsive/IMG_8669-xs.JPG 300w ,https://rebeen-art.github.io/rebeen/media/posts/2/responsive/IMG_8669-sm.JPG 480w ,https://rebeen-art.github.io/rebeen/media/posts/2/responsive/IMG_8669-md.JPG 768w ,https://rebeen-art.github.io/rebeen/media/posts/2/responsive/IMG_8669-lg.JPG 1024w"></figure>
+                    <p><img src="https://rebeen-art.github.io/rebeen/media/posts/3/2-A-walk-from-and-to-home-face-book-jpg-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image post__image--wide"><img loading="lazy"  src="https://rebeen-art.github.io/rebeen/media/posts/3/2-A-walk-from-and-to-home-face-book-jpg.jpg" alt="" width="2399" height="638" sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen-art.github.io/rebeen/media/posts/3/responsive/2-A-walk-from-and-to-home-face-book-jpg-xs.jpg 300w ,https://rebeen-art.github.io/rebeen/media/posts/3/responsive/2-A-walk-from-and-to-home-face-book-jpg-sm.jpg 480w ,https://rebeen-art.github.io/rebeen/media/posts/3/responsive/2-A-walk-from-and-to-home-face-book-jpg-md.jpg 768w ,https://rebeen-art.github.io/rebeen/media/posts/3/responsive/2-A-walk-from-and-to-home-face-book-jpg-lg.jpg 1024w ,https://rebeen-art.github.io/rebeen/media/posts/3/responsive/2-A-walk-from-and-to-home-face-book-jpg-xl.jpg 1360w ,https://rebeen-art.github.io/rebeen/media/posts/3/responsive/2-A-walk-from-and-to-home-face-book-jpg-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>

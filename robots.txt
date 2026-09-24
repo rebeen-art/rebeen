@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rebeen-art.github.io/rebeen/sitemap.xml

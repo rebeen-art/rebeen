@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "rebeen.art",
+    "description": "",
+    "home_page_url": "https://rebeen-art.github.io/rebeen",
+    "feed_url": "https://rebeen-art.github.io/rebeen/feed.json",
+    "user_comment": "",
+    "icon": "https://rebeen-art.github.io/rebeen/media/website/Untitled-2-2.gif",
+    "author": {
+        "name": "Rebeen Hamarafiq"
+    },
+    "items": [
+        {
+            "id": "https://rebeen-art.github.io/rebeen/dropping-art-works.html",
+            "url": "https://rebeen-art.github.io/rebeen/dropping-art-works.html",
+            "title": "Dropping Art Works ",
+            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://rebeen-art.github.io/rebeen/media/posts/2/IMG_8669.JPG\" alt=\"\" width=\"948\" height=\"1264\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://rebeen-art.github.io/rebeen/media/posts/2/responsive/IMG_8669-xs.JPG 300w ,https://rebeen-art.github.io/rebeen/media/posts/2/responsive/IMG_8669-sm.JPG 480w ,https://rebeen-art.github.io/rebeen/media/posts/2/responsive/IMG_8669-md.JPG 768w ,https://rebeen-art.github.io/rebeen/media/posts/2/responsive/IMG_8669-lg.JPG 1024w\"></figure>",
+            "image": "https://rebeen-art.github.io/rebeen/media/posts/2/IMG_8669-2.JPG",
+            "author": {
+                "name": "Rebeen Hamarafiq"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-22T22:07:42+02:00",
+            "date_modified": "2026-09-23T15:54:15+02:00"
+        }
+    ]
+}

@@ -3,7 +3,7 @@
     <title>rebeen.art</title>
     <link href="https://rebeen-art.github.io/rebeen/feed.xml" rel="self" />
     <link href="https://rebeen-art.github.io/rebeen" />
-    <updated>2026-09-25T21:22:29+02:00</updated>
+    <updated>2026-09-25T21:53:56+02:00</updated>
     <author>
         <name>Rebeen Hamarafiq</name>
     </author>
@@ -17,6 +17,8 @@
         <link href="https://rebeen-art.github.io/rebeen/a-walk-from-and-to-home.html"/>
         <id>https://rebeen-art.github.io/rebeen/a-walk-from-and-to-home.html</id>
         <media:content url="https://rebeen-art.github.io/rebeen/media/posts/3/2-A-walk-from-and-to-home-face-book-jpg-4.jpg" medium="image" />
+            <category term="Home"/>
+            <category term="Art &amp; Projects"/>
 
         <updated>2026-09-24T21:11:12+02:00</updated>
             <summary type="html">

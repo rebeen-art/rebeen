@@ -11,20 +11,6 @@
     },
     "items": [
         {
-            "id": "https://rebeen-art.github.io/rebeen/contact.html",
-            "url": "https://rebeen-art.github.io/rebeen/contact.html",
-            "title": "Contact",
-            "summary": "Your Name Your Email Address Your Message Send Message",
-            "content_html": "<div><div style=\"max-width: 500px; margin: 40px auto; font-family: sans-serif;\">\n  \n  <!-- PASTE YOUR FORMSPREE LINK INSTEAD OF THE ONE BELOW -->\n  <form action=\"rebenm@gmail.com\" method=\"POST\">\n    \n    <div style=\"margin-bottom: 20px;\">\n      <label style=\"display: block; font-weight: bold; margin-bottom: 8px;\">Your Name</label>\n      <input type=\"text\" name=\"name\" required style=\"width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box;\">\n    </div>\n\n    <div style=\"margin-bottom: 20px;\">\n      <label style=\"display: block; font-weight: bold; margin-bottom: 8px;\">Your Email Address</label>\n      <input type=\"email\" name=\"_replyto\" required style=\"width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box;\">\n    </div>\n\n    <div style=\"margin-bottom: 25px;\">\n      <label style=\"display: block; font-weight: bold; margin-bottom: 8px;\">Your Message</label>\n      <textarea name=\"message\" rows=\"6\" required style=\"width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box; resize: vertical;\"></textarea>\n    </div>\n\n    <button type=\"submit\" style=\"background-color: #000; color: #fff; width: 100%; padding: 14px; border: none; border-radius: 6px; font-weight: bold; font-size: 16px; cursor: pointer;\">\n      Send Message\n    </button>\n    \n  </form>\n</div></div>",
-            "author": {
-                "name": "Rebeen Hamarafiq"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-27T13:02:40+02:00",
-            "date_modified": "2026-09-27T13:02:40+02:00"
-        },
-        {
             "id": "https://rebeen-art.github.io/rebeen/dropping-bucket-and-objects.html",
             "url": "https://rebeen-art.github.io/rebeen/dropping-bucket-and-objects.html",
             "title": "Dropping Bucket and Objects",
@@ -37,7 +23,7 @@
                    "Art &amp; Projects"
             ],
             "date_published": "2026-09-27T12:38:43+02:00",
-            "date_modified": "2026-09-27T12:38:54+02:00"
+            "date_modified": "2026-09-27T13:29:52+02:00"
         },
         {
             "id": "https://rebeen-art.github.io/rebeen/dropping-canvas-imago-mundi.html",

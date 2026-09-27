@@ -3,57 +3,12 @@
     <title>rebeen.art</title>
     <link href="https://rebeen-art.github.io/rebeen/feed.xml" rel="self" />
     <link href="https://rebeen-art.github.io/rebeen" />
-    <updated>2026-09-27T13:02:40+02:00</updated>
+    <updated>2026-09-27T13:29:52+02:00</updated>
     <author>
         <name>Rebeen Hamarafiq</name>
     </author>
     <id>https://rebeen-art.github.io/rebeen</id>
 
-    <entry>
-        <title>Contact</title>
-        <author>
-            <name>Rebeen Hamarafiq</name>
-        </author>
-        <link href="https://rebeen-art.github.io/rebeen/contact.html"/>
-        <id>https://rebeen-art.github.io/rebeen/contact.html</id>
-
-        <updated>2026-09-27T13:02:40+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Your Name Your Email Address Your Message Send Message
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div><div style="max-width: 500px; margin: 40px auto; font-family: sans-serif;">
-  
-  <!-- PASTE YOUR FORMSPREE LINK INSTEAD OF THE ONE BELOW -->
-  <form action="rebenm@gmail.com" method="POST">
-    
-    <div style="margin-bottom: 20px;">
-      <label style="display: block; font-weight: bold; margin-bottom: 8px;">Your Name</label>
-      <input type="text" name="name" required style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box;">
-    </div>
-
-    <div style="margin-bottom: 20px;">
-      <label style="display: block; font-weight: bold; margin-bottom: 8px;">Your Email Address</label>
-      <input type="email" name="_replyto" required style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box;">
-    </div>
-
-    <div style="margin-bottom: 25px;">
-      <label style="display: block; font-weight: bold; margin-bottom: 8px;">Your Message</label>
-      <textarea name="message" rows="6" required style="width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box; resize: vertical;"></textarea>
-    </div>
-
-    <button type="submit" style="background-color: #000; color: #fff; width: 100%; padding: 14px; border: none; border-radius: 6px; font-weight: bold; font-size: 16px; cursor: pointer;">
-      Send Message
-    </button>
-    
-  </form>
-</div></div>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Dropping Bucket and Objects</title>
         <author>

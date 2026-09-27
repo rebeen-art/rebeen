@@ -15,14 +15,15 @@
             "url": "https://rebeen-art.github.io/rebeen/am-mrovana-kar-dakan.html",
             "title": "Am Mrovana Kar Dakan",
             "summary": "Your browser does not support iframes. Click here to visit the site directly.",
-            "content_html": "<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://nomus.gda.pl/en/archives/niech-poprzedza-cie-plomien\" width=\"100%\" height=\"600px\" style=\"border: 1px solid #ccc; border-radius: 4px;\" allowfullscreen>\n  <p>Your browser does not support iframes. <a href=\"https://example.com\" target=\"_blank\">Click here to visit the site directly.</a></p>\n</iframe></div>\n</div>\n\n  <p>\n    \n  </p>",
+            "content_html": "<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://www.ammrovanakaardakan.com/activity/dropping\" width=\"100%\" height=\"600px\" style=\"border: 1px solid #ccc; border-radius: 4px;\" allowfullscreen>\n  <p>Your browser does not support iframes. <a href=\"https://example.com\" target=\"_blank\">Click here to visit the site directly.</a></p>\n</iframe></div>\n</div>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Rebeen Hamarafiq"
             },
             "tags": [
+                   "Art Projects"
             ],
             "date_published": "2026-09-27T22:29:51+02:00",
-            "date_modified": "2026-09-27T22:29:51+02:00"
+            "date_modified": "2026-09-27T22:34:11+02:00"
         },
         {
             "id": "https://rebeen-art.github.io/rebeen/galeria-arsenal.html",

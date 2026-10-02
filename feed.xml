@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>rebeen.art</title>
-    <link href="https://rebeen.art/feed.xml" rel="self" />
-    <link href="https://rebeen.art" />
+    <link href="https://www.rebeen.art/feed.xml" rel="self" />
+    <link href="https://www.rebeen.art" />
     <updated>2026-09-30T01:37:40+02:00</updated>
     <author>
         <name>Rebeen Hamarafiq</name>
     </author>
-    <id>https://rebeen.art</id>
+    <id>https://www.rebeen.art</id>
 
     <entry>
         <title>2014--2023 The Chess board Game</title>
         <author>
             <name>Rebeen Hamarafiq</name>
         </author>
-        <link href="https://rebeen.art/your-own-chess.html"/>
-        <id>https://rebeen.art/your-own-chess.html</id>
+        <link href="https://www.rebeen.art/your-own-chess.html"/>
+        <id>https://www.rebeen.art/your-own-chess.html</id>
             <category term="Art &amp; Projects"/>
 
         <updated>2026-09-29T11:35:37+02:00</updated>
@@ -28,7 +28,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://rebeen.art/media/posts/25/Chess-with-hampster.mp4_snapshot_02.37.440.jpg" height="1080" width="1920" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-xs.jpg 300w ,https://rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-sm.jpg 480w ,https://rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-md.jpg 768w ,https://rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-lg.jpg 1024w ,https://rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-xl.jpg 1360w ,https://rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-2xl.jpg 1600w">
+      <img loading="lazy" src="https://www.rebeen.art/media/posts/25/Chess-with-hampster.mp4_snapshot_02.37.440.jpg" height="1080" width="1920" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-xs.jpg 300w ,https://www.rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-sm.jpg 480w ,https://www.rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-md.jpg 768w ,https://www.rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-lg.jpg 1024w ,https://www.rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-xl.jpg 1360w ,https://www.rebeen.art/media/posts/25/responsive/Chess-with-hampster.mp4_snapshot_02.37.440-2xl.jpg 1600w">
       
     </figure>
 
@@ -55,13 +55,13 @@
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/25/gallery/FB_IMG_1667073989649.jpg" data-size="1080x808">
-        <img loading="lazy" src="https://rebeen.art/media/posts/25/gallery/FB_IMG_1667073989649-thumbnail.jpg" height="539" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/25/gallery/FB_IMG_1667073989649.jpg" data-size="1080x808">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/25/gallery/FB_IMG_1667073989649-thumbnail.jpg" height="539" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/25/gallery/REBEEN-HAMARAFIQ-Bauhause.jpg" data-size="1246x831">
-        <img loading="lazy" src="https://rebeen.art/media/posts/25/gallery/REBEEN-HAMARAFIQ-Bauhause-thumbnail.jpg" height="480" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/25/gallery/REBEEN-HAMARAFIQ-Bauhause.jpg" data-size="1246x831">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/25/gallery/REBEEN-HAMARAFIQ-Bauhause-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure>
@@ -75,23 +75,23 @@
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/25/gallery/IMG_20221013_125333.jpg" data-size="3464x4618">
-        <img loading="lazy" src="https://rebeen.art/media/posts/25/gallery/IMG_20221013_125333-thumbnail.jpg" height="960" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/25/gallery/IMG_20221013_125333.jpg" data-size="3464x4618">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/25/gallery/IMG_20221013_125333-thumbnail.jpg" height="960" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/25/gallery/IMG_20221013_140406.jpg" data-size="4618x3464">
-        <img loading="lazy" src="https://rebeen.art/media/posts/25/gallery/IMG_20221013_140406-thumbnail.jpg" height="540" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/25/gallery/IMG_20221013_140406.jpg" data-size="4618x3464">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/25/gallery/IMG_20221013_140406-thumbnail.jpg" height="540" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/25/gallery/IMG_20221013_153431.jpg" data-size="4618x3464">
-        <img loading="lazy" src="https://rebeen.art/media/posts/25/gallery/IMG_20221013_153431-thumbnail.jpg" height="540" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/25/gallery/IMG_20221013_153431.jpg" data-size="4618x3464">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/25/gallery/IMG_20221013_153431-thumbnail.jpg" height="540" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/25/gallery/IMG_20221013_183150.jpg" data-size="3464x4618">
-        <img loading="lazy" src="https://rebeen.art/media/posts/25/gallery/IMG_20221013_183150-thumbnail.jpg" height="960" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/25/gallery/IMG_20221013_183150.jpg" data-size="3464x4618">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/25/gallery/IMG_20221013_183150-thumbnail.jpg" height="960" width="720" alt="" >
       </a>
       
     </figure>
@@ -113,28 +113,28 @@
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="4">
       <figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/25/gallery/bo-dalell.jpg" data-size="2480x3508">
-        <img loading="lazy" src="https://rebeen.art/media/posts/25/gallery/bo-dalell-thumbnail.jpg" height="1018" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/25/gallery/bo-dalell.jpg" data-size="2480x3508">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/25/gallery/bo-dalell-thumbnail.jpg" height="1018" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/25/gallery/scan0001.jpg" data-size="1185x801">
-        <img loading="lazy" src="https://rebeen.art/media/posts/25/gallery/scan0001-thumbnail.jpg" height="487" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/25/gallery/scan0001.jpg" data-size="1185x801">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/25/gallery/scan0001-thumbnail.jpg" height="487" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/25/gallery/scan0002.jpg" data-size="1185x801">
-        <img loading="lazy" src="https://rebeen.art/media/posts/25/gallery/scan0002-thumbnail.jpg" height="487" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/25/gallery/scan0002.jpg" data-size="1185x801">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/25/gallery/scan0002-thumbnail.jpg" height="487" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/25/gallery/scan0003.jpg" data-size="1185x801">
-        <img loading="lazy" src="https://rebeen.art/media/posts/25/gallery/scan0003-thumbnail.jpg" height="487" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/25/gallery/scan0003.jpg" data-size="1185x801">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/25/gallery/scan0003-thumbnail.jpg" height="487" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/25/gallery/scan0004.jpg" data-size="1185x801">
-        <img loading="lazy" src="https://rebeen.art/media/posts/25/gallery/scan0004-thumbnail.jpg" height="487" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/25/gallery/scan0004.jpg" data-size="1185x801">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/25/gallery/scan0004-thumbnail.jpg" height="487" width="720" alt="" >
       </a>
       
     </figure>
@@ -152,8 +152,8 @@
         <author>
             <name>Rebeen Hamarafiq</name>
         </author>
-        <link href="https://rebeen.art/am-mrovana-kar-dakan.html"/>
-        <id>https://rebeen.art/am-mrovana-kar-dakan.html</id>
+        <link href="https://www.rebeen.art/am-mrovana-kar-dakan.html"/>
+        <id>https://www.rebeen.art/am-mrovana-kar-dakan.html</id>
             <category term="Art Projects"/>
 
         <updated>2026-09-27T22:29:51+02:00</updated>
@@ -167,7 +167,7 @@
                 
     <figure class="post__image post__image--wide">
       <a href="https://www.ammrovanakaardakan.com/activities">
-        <img loading="lazy" src="https://rebeen.art/media/posts/22/1.png" height="1569" width="1321" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/22/responsive/1-xs.png 300w ,https://rebeen.art/media/posts/22/responsive/1-sm.png 480w ,https://rebeen.art/media/posts/22/responsive/1-md.png 768w ,https://rebeen.art/media/posts/22/responsive/1-lg.png 1024w ,https://rebeen.art/media/posts/22/responsive/1-xl.png 1360w ,https://rebeen.art/media/posts/22/responsive/1-2xl.png 1600w">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/22/1.png" height="1569" width="1321" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/22/responsive/1-xs.png 300w ,https://www.rebeen.art/media/posts/22/responsive/1-sm.png 480w ,https://www.rebeen.art/media/posts/22/responsive/1-md.png 768w ,https://www.rebeen.art/media/posts/22/responsive/1-lg.png 1024w ,https://www.rebeen.art/media/posts/22/responsive/1-xl.png 1360w ,https://www.rebeen.art/media/posts/22/responsive/1-2xl.png 1600w">
       </a>
       
     </figure>
@@ -200,7 +200,7 @@
 
     <figure class="post__image post__image--wide">
       <a href="https://www.ammrovanakaardakan.com/activity/dropping" target="_blank">
-        <img loading="lazy" src="https://rebeen.art/media/posts/22/p2-2.jpg" height="726" width="664" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/22/responsive/p2-2-xs.jpg 300w ,https://rebeen.art/media/posts/22/responsive/p2-2-sm.jpg 480w ,https://rebeen.art/media/posts/22/responsive/p2-2-md.jpg 768w ,https://rebeen.art/media/posts/22/responsive/p2-2-lg.jpg 1024w ,https://rebeen.art/media/posts/22/responsive/p2-2-xl.jpg 1360w ,https://rebeen.art/media/posts/22/responsive/p2-2-2xl.jpg 1600w">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/22/p2-2.jpg" height="726" width="664" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/22/responsive/p2-2-xs.jpg 300w ,https://www.rebeen.art/media/posts/22/responsive/p2-2-sm.jpg 480w ,https://www.rebeen.art/media/posts/22/responsive/p2-2-md.jpg 768w ,https://www.rebeen.art/media/posts/22/responsive/p2-2-lg.jpg 1024w ,https://www.rebeen.art/media/posts/22/responsive/p2-2-xl.jpg 1360w ,https://www.rebeen.art/media/posts/22/responsive/p2-2-2xl.jpg 1600w">
       </a>
       
     </figure>
@@ -233,8 +233,8 @@
         <author>
             <name>Rebeen Hamarafiq</name>
         </author>
-        <link href="https://rebeen.art/galeria-arsenal.html"/>
-        <id>https://rebeen.art/galeria-arsenal.html</id>
+        <link href="https://www.rebeen.art/galeria-arsenal.html"/>
+        <id>https://www.rebeen.art/galeria-arsenal.html</id>
             <category term="Art &amp; Projects"/>
 
         <updated>2026-09-27T19:17:21+02:00</updated>
@@ -248,7 +248,7 @@
                 
     <figure class="post__image post__image--center">
       <a href="https://galeriaarsenal.pl/en/exhibition/may-flames-pave-the-way-for-you/">
-        <img loading="lazy" src="https://rebeen.art/media/posts/21/images.jpeg" height="447" width="447" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/21/responsive/images-xs.jpeg 300w ,https://rebeen.art/media/posts/21/responsive/images-sm.jpeg 480w ,https://rebeen.art/media/posts/21/responsive/images-md.jpeg 768w ,https://rebeen.art/media/posts/21/responsive/images-lg.jpeg 1024w ,https://rebeen.art/media/posts/21/responsive/images-xl.jpeg 1360w ,https://rebeen.art/media/posts/21/responsive/images-2xl.jpeg 1600w">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/21/images.jpeg" height="447" width="447" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/21/responsive/images-xs.jpeg 300w ,https://www.rebeen.art/media/posts/21/responsive/images-sm.jpeg 480w ,https://www.rebeen.art/media/posts/21/responsive/images-md.jpeg 768w ,https://www.rebeen.art/media/posts/21/responsive/images-lg.jpeg 1024w ,https://www.rebeen.art/media/posts/21/responsive/images-xl.jpeg 1360w ,https://www.rebeen.art/media/posts/21/responsive/images-2xl.jpeg 1600w">
       </a>
       
     </figure>
@@ -258,7 +258,7 @@
   </p>
 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://rebeen.art/media/posts/21/264-Niech-poprzedza-Cie-plomien.jpg" height="960" width="960" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-xs.jpg 300w ,https://rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-sm.jpg 480w ,https://rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-md.jpg 768w ,https://rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-lg.jpg 1024w ,https://rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-xl.jpg 1360w ,https://rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-2xl.jpg 1600w">
+      <img loading="lazy" src="https://www.rebeen.art/media/posts/21/264-Niech-poprzedza-Cie-plomien.jpg" height="960" width="960" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-xs.jpg 300w ,https://www.rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-sm.jpg 480w ,https://www.rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-md.jpg 768w ,https://www.rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-lg.jpg 1024w ,https://www.rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-xl.jpg 1360w ,https://www.rebeen.art/media/posts/21/responsive/264-Niech-poprzedza-Cie-plomien-2xl.jpg 1600w">
       
     </figure>
 
@@ -300,8 +300,8 @@
         <author>
             <name>Rebeen Hamarafiq</name>
         </author>
-        <link href="https://rebeen.art/nomus.html"/>
-        <id>https://rebeen.art/nomus.html</id>
+        <link href="https://www.rebeen.art/nomus.html"/>
+        <id>https://www.rebeen.art/nomus.html</id>
 
         <updated>2026-09-27T18:11:33+02:00</updated>
             <summary type="html">
@@ -318,7 +318,7 @@
 
     <figure class="post__image post__image--full">
       <a href="https://nomus.gda.pl/en/archives/niech-poprzedza-cie-plomien">
-        <img loading="lazy" src="https://rebeen.art/media/posts/20/Untitled-2-copy.jpg" height="376" width="1327" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/20/responsive/Untitled-2-copy-xs.jpg 300w ,https://rebeen.art/media/posts/20/responsive/Untitled-2-copy-sm.jpg 480w ,https://rebeen.art/media/posts/20/responsive/Untitled-2-copy-md.jpg 768w ,https://rebeen.art/media/posts/20/responsive/Untitled-2-copy-lg.jpg 1024w ,https://rebeen.art/media/posts/20/responsive/Untitled-2-copy-xl.jpg 1360w ,https://rebeen.art/media/posts/20/responsive/Untitled-2-copy-2xl.jpg 1600w">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/20/Untitled-2-copy.jpg" height="376" width="1327" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/20/responsive/Untitled-2-copy-xs.jpg 300w ,https://www.rebeen.art/media/posts/20/responsive/Untitled-2-copy-sm.jpg 480w ,https://www.rebeen.art/media/posts/20/responsive/Untitled-2-copy-md.jpg 768w ,https://www.rebeen.art/media/posts/20/responsive/Untitled-2-copy-lg.jpg 1024w ,https://www.rebeen.art/media/posts/20/responsive/Untitled-2-copy-xl.jpg 1360w ,https://www.rebeen.art/media/posts/20/responsive/Untitled-2-copy-2xl.jpg 1600w">
       </a>
       
     </figure>
@@ -337,7 +337,7 @@
 
     <figure class="post__image post__image--full">
       <a href="https://nomus.gda.pl/en/archives/niech-poprzedza-cie-plomien">
-        <img loading="lazy" src="https://rebeen.art/media/posts/20/slider_1920x625_px_v3-2-1634564812.jpg" height="521" width="1600" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-xs.jpg 300w ,https://rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-sm.jpg 480w ,https://rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-md.jpg 768w ,https://rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-lg.jpg 1024w ,https://rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-xl.jpg 1360w ,https://rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-2xl.jpg 1600w">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/20/slider_1920x625_px_v3-2-1634564812.jpg" height="521" width="1600" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-xs.jpg 300w ,https://www.rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-sm.jpg 480w ,https://www.rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-md.jpg 768w ,https://www.rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-lg.jpg 1024w ,https://www.rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-xl.jpg 1360w ,https://www.rebeen.art/media/posts/20/responsive/slider_1920x625_px_v3-2-1634564812-2xl.jpg 1600w">
       </a>
       
     </figure>
@@ -359,8 +359,8 @@
         <author>
             <name>Rebeen Hamarafiq</name>
         </author>
-        <link href="https://rebeen.art/tunning-body.html"/>
-        <id>https://rebeen.art/tunning-body.html</id>
+        <link href="https://www.rebeen.art/tunning-body.html"/>
+        <id>https://www.rebeen.art/tunning-body.html</id>
             <category term="Art &amp; Projects"/>
 
         <updated>2026-09-27T14:37:33+02:00</updated>
@@ -373,7 +373,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://rebeen.art/media/posts/19/rebeen-4.jpg" height="1080" width="1920" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/19/responsive/rebeen-4-xs.jpg 300w ,https://rebeen.art/media/posts/19/responsive/rebeen-4-sm.jpg 480w ,https://rebeen.art/media/posts/19/responsive/rebeen-4-md.jpg 768w ,https://rebeen.art/media/posts/19/responsive/rebeen-4-lg.jpg 1024w ,https://rebeen.art/media/posts/19/responsive/rebeen-4-xl.jpg 1360w ,https://rebeen.art/media/posts/19/responsive/rebeen-4-2xl.jpg 1600w">
+      <img loading="lazy" src="https://www.rebeen.art/media/posts/19/rebeen-4.jpg" height="1080" width="1920" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/19/responsive/rebeen-4-xs.jpg 300w ,https://www.rebeen.art/media/posts/19/responsive/rebeen-4-sm.jpg 480w ,https://www.rebeen.art/media/posts/19/responsive/rebeen-4-md.jpg 768w ,https://www.rebeen.art/media/posts/19/responsive/rebeen-4-lg.jpg 1024w ,https://www.rebeen.art/media/posts/19/responsive/rebeen-4-xl.jpg 1360w ,https://www.rebeen.art/media/posts/19/responsive/rebeen-4-2xl.jpg 1600w">
       <figcaption>2016 Tunning body, performance staged for Camera, 18:18 minute.  </figcaption>
     </figure>
 
@@ -387,23 +387,23 @@
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/19/gallery/rebeen-5.jpg" data-size="1920x1080">
-        <img loading="lazy" src="https://rebeen.art/media/posts/19/gallery/rebeen-5-thumbnail.jpg" height="405" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/19/gallery/rebeen-5.jpg" data-size="1920x1080">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/19/gallery/rebeen-5-thumbnail.jpg" height="405" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/19/gallery/rebeen-6.jpg" data-size="1920x1080">
-        <img loading="lazy" src="https://rebeen.art/media/posts/19/gallery/rebeen-6-thumbnail.jpg" height="405" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/19/gallery/rebeen-6.jpg" data-size="1920x1080">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/19/gallery/rebeen-6-thumbnail.jpg" height="405" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/19/gallery/rebeen-expoer-2.jpg" data-size="1920x1080">
-        <img loading="lazy" src="https://rebeen.art/media/posts/19/gallery/rebeen-expoer-2-thumbnail.jpg" height="405" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/19/gallery/rebeen-expoer-2.jpg" data-size="1920x1080">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/19/gallery/rebeen-expoer-2-thumbnail.jpg" height="405" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/19/gallery/Tunning-Body-1.jpg" data-size="1920x1080">
-        <img loading="lazy" src="https://rebeen.art/media/posts/19/gallery/Tunning-Body-1-thumbnail.jpg" height="405" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/19/gallery/Tunning-Body-1.jpg" data-size="1920x1080">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/19/gallery/Tunning-Body-1-thumbnail.jpg" height="405" width="720" alt="" >
       </a>
       
     </figure>
@@ -421,8 +421,8 @@
         <author>
             <name>Rebeen Hamarafiq</name>
         </author>
-        <link href="https://rebeen.art/dropping-bucket-and-objects.html"/>
-        <id>https://rebeen.art/dropping-bucket-and-objects.html</id>
+        <link href="https://www.rebeen.art/dropping-bucket-and-objects.html"/>
+        <id>https://www.rebeen.art/dropping-bucket-and-objects.html</id>
             <category term="Art &amp; Projects"/>
 
         <updated>2026-09-27T12:38:43+02:00</updated>
@@ -437,23 +437,23 @@
   <div  class="gallery-wrapper gallery-wrapper--full">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/17/gallery/IMG_8603.JPG" data-size="4352x3264">
-        <img loading="lazy" src="https://rebeen.art/media/posts/17/gallery/IMG_8603-thumbnail.JPG" height="540" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/17/gallery/IMG_8603.JPG" data-size="4352x3264">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/17/gallery/IMG_8603-thumbnail.JPG" height="540" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/17/gallery/IMG_8603-2.JPG" data-size="4352x3264">
-        <img loading="lazy" src="https://rebeen.art/media/posts/17/gallery/IMG_8603-2-thumbnail.JPG" height="540" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/17/gallery/IMG_8603-2.JPG" data-size="4352x3264">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/17/gallery/IMG_8603-2-thumbnail.JPG" height="540" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/17/gallery/IMG_8630.JPG" data-size="4352x3264">
-        <img loading="lazy" src="https://rebeen.art/media/posts/17/gallery/IMG_8630-thumbnail.JPG" height="540" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/17/gallery/IMG_8630.JPG" data-size="4352x3264">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/17/gallery/IMG_8630-thumbnail.JPG" height="540" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/17/gallery/IMG_8669.JPG" data-size="4352x3264">
-        <img loading="lazy" src="https://rebeen.art/media/posts/17/gallery/IMG_8669-thumbnail.JPG" height="540" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/17/gallery/IMG_8669.JPG" data-size="4352x3264">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/17/gallery/IMG_8669-thumbnail.JPG" height="540" width="720" alt="" >
       </a>
       
     </figure>
@@ -471,18 +471,18 @@
   <div  class="gallery-wrapper gallery-wrapper--full">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/17/gallery/IMG_8278.JPG" data-size="4352x3264">
-        <img loading="lazy" src="https://rebeen.art/media/posts/17/gallery/IMG_8278-thumbnail.JPG" height="540" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/17/gallery/IMG_8278.JPG" data-size="4352x3264">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/17/gallery/IMG_8278-thumbnail.JPG" height="540" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/17/gallery/IMG_8280.JPG" data-size="4352x3264">
-        <img loading="lazy" src="https://rebeen.art/media/posts/17/gallery/IMG_8280-thumbnail.JPG" height="540" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/17/gallery/IMG_8280.JPG" data-size="4352x3264">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/17/gallery/IMG_8280-thumbnail.JPG" height="540" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/17/gallery/IMG_8281.JPG" data-size="4352x3264">
-        <img loading="lazy" src="https://rebeen.art/media/posts/17/gallery/IMG_8281-thumbnail.JPG" height="540" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/17/gallery/IMG_8281.JPG" data-size="4352x3264">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/17/gallery/IMG_8281-thumbnail.JPG" height="540" width="720" alt="" >
       </a>
       
     </figure>
@@ -504,8 +504,8 @@
         <author>
             <name>Rebeen Hamarafiq</name>
         </author>
-        <link href="https://rebeen.art/dropping-canvas-imago-mundi.html"/>
-        <id>https://rebeen.art/dropping-canvas-imago-mundi.html</id>
+        <link href="https://www.rebeen.art/dropping-canvas-imago-mundi.html"/>
+        <id>https://www.rebeen.art/dropping-canvas-imago-mundi.html</id>
             <category term="Art &amp; Projects"/>
 
         <updated>2026-09-27T09:30:57+02:00</updated>
@@ -520,23 +520,23 @@
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/16/gallery/IMG_20200713_011338-copy.jpg" data-size="3456x4608">
-        <img loading="lazy" src="https://rebeen.art/media/posts/16/gallery/IMG_20200713_011338-copy-thumbnail.jpg" height="960" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/16/gallery/IMG_20200713_011338-copy.jpg" data-size="3456x4608">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/16/gallery/IMG_20200713_011338-copy-thumbnail.jpg" height="960" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/16/gallery/IMG_20200713_011352.jpg" data-size="3456x4608">
-        <img loading="lazy" src="https://rebeen.art/media/posts/16/gallery/IMG_20200713_011352-thumbnail.jpg" height="960" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/16/gallery/IMG_20200713_011352.jpg" data-size="3456x4608">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/16/gallery/IMG_20200713_011352-thumbnail.jpg" height="960" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/16/gallery/rebeen_hamarafiq_back_kurdistan.png" data-size="1500x1308">
-        <img loading="lazy" src="https://rebeen.art/media/posts/16/gallery/rebeen_hamarafiq_back_kurdistan-thumbnail.png" height="628" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/16/gallery/rebeen_hamarafiq_back_kurdistan.png" data-size="1500x1308">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/16/gallery/rebeen_hamarafiq_back_kurdistan-thumbnail.png" height="628" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/16/gallery/rebeen_hamarafiq_front_kurdistan.png" data-size="1500x1336">
-        <img loading="lazy" src="https://rebeen.art/media/posts/16/gallery/rebeen_hamarafiq_front_kurdistan-thumbnail.png" height="641" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/16/gallery/rebeen_hamarafiq_front_kurdistan.png" data-size="1500x1336">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/16/gallery/rebeen_hamarafiq_front_kurdistan-thumbnail.png" height="641" width="720" alt="" >
       </a>
       
     </figure>
@@ -555,13 +555,13 @@
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/16/gallery/catalogue-kurdistan-01.jpg" data-size="1410x941">
-        <img loading="lazy" src="https://rebeen.art/media/posts/16/gallery/catalogue-kurdistan-01-thumbnail.jpg" height="481" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/16/gallery/catalogue-kurdistan-01.jpg" data-size="1410x941">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/16/gallery/catalogue-kurdistan-01-thumbnail.jpg" height="481" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://rebeen.art/media/posts/16/gallery/catalogue-kurdistan-02.jpg" data-size="1410x940">
-        <img loading="lazy" src="https://rebeen.art/media/posts/16/gallery/catalogue-kurdistan-02-thumbnail.jpg" height="480" width="720" alt="" >
+      <a href="https://www.rebeen.art/media/posts/16/gallery/catalogue-kurdistan-02.jpg" data-size="1410x940">
+        <img loading="lazy" src="https://www.rebeen.art/media/posts/16/gallery/catalogue-kurdistan-02-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure>
@@ -579,8 +579,8 @@
         <author>
             <name>Rebeen Hamarafiq</name>
         </author>
-        <link href="https://rebeen.art/dropping-performance-seminars-daily-living.html"/>
-        <id>https://rebeen.art/dropping-performance-seminars-daily-living.html</id>
+        <link href="https://www.rebeen.art/dropping-performance-seminars-daily-living.html"/>
+        <id>https://www.rebeen.art/dropping-performance-seminars-daily-living.html</id>
             <category term="Art &amp; Projects"/>
 
         <updated>2026-09-26T16:52:23+02:00</updated>
@@ -592,29 +592,29 @@
         <content type="html">
             <![CDATA[
                 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/IMG_5466.JPG" data-size="4352x3264"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/IMG_5466-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/IMG_5477.JPG" data-size="4352x3264"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/IMG_5477-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/IMG_5470.JPG" data-size="4352x3264"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/IMG_5470-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/IMG_5472.JPG" data-size="4352x3264"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/IMG_5472-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/IMG_5475.JPG" data-size="4352x3264"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/IMG_5475-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/IMG_5466.JPG" data-size="4352x3264"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/IMG_5466-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/IMG_5477.JPG" data-size="4352x3264"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/IMG_5477-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/IMG_5470.JPG" data-size="4352x3264"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/IMG_5470-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/IMG_5472.JPG" data-size="4352x3264"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/IMG_5472-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/IMG_5475.JPG" data-size="4352x3264"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/IMG_5475-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
 </div></div>
 <p><strong>2013 Performance in the Seminar Room Goldsmiths London, Duration, 60 minutes.  </strong></p>
 <p>During a seminar at Goldsmiths, I presented a fifteen-minute theoretical research piece alongside a practice-based artwork. My presentation involved sitting under a bucket that constantly dripped water on me. The theoretical component centred on the emergence of a new system of control, exploring the concept of the panopticon, and discussing how art shapes public taste through galleries and various art organisations. I also provided examples of how art integrates into daily life beyond traditional art venues. Following the seminar, we had an hour-long discussion about both the artwork and the theoretical ideas. While everyone anticipated that I would emerge from under the bucket during this time, I chose to stay put until the very end of the discussion.</p>
 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/Dropping-in-park-4.jpg" data-size="1080x1920"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/Dropping-in-park-4-thumbnail.jpg" alt="" width="720" height="1280"></a></figure>
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/Dropping-in-park.jpg" data-size="1920x1080"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/Dropping-in-park-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/Dropping-in-park1.jpg" data-size="1920x1080"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/Dropping-in-park1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/Dropping-in-park2.jpg" data-size="1920x1080"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/Dropping-in-park2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/Dropping-in-park-4.jpg" data-size="1080x1920"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/Dropping-in-park-4-thumbnail.jpg" alt="" width="720" height="1280"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/Dropping-in-park.jpg" data-size="1920x1080"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/Dropping-in-park-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/Dropping-in-park1.jpg" data-size="1920x1080"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/Dropping-in-park1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/Dropping-in-park2.jpg" data-size="1920x1080"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/Dropping-in-park2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p><strong>2013 live performance at a park, Goldsmith's College London, in an open space.</strong></p>
 <p>The performance was part of the Idea of involving the Artwork with daily living, instead of ocupying a space or a gallery specified to it; just let it happen as a gesture or normalised action that directs attention. The spot was a little space that connected the Goldsmith's campuse with commuters and exchanges between different parts of the College.</p>
 <p> </p>
 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/FB_IMG_1493623527400.jpg" data-size="552x414"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/FB_IMG_1493623527400-thumbnail.jpg" alt="" width="552" height="414"></a></figure>
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/FB_IMG_1493623537476.jpg" data-size="540x720"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/FB_IMG_1493623537476-thumbnail.jpg" alt="" width="540" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/FB_IMG_1493623548943.jpg" data-size="552x414"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/FB_IMG_1493623548943-thumbnail.jpg" alt="" width="552" height="414"></a></figure>
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/FB_IMG_1493623555604.jpg" data-size="552x414"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/FB_IMG_1493623555604-thumbnail.jpg" alt="" width="552" height="414"></a></figure>
-<figure class="gallery__item"><a href="https://rebeen.art/media/posts/15/gallery/FB_IMG_1493623566365.jpg" data-size="540x720"><img loading="lazy" src="https://rebeen.art/media/posts/15/gallery/FB_IMG_1493623566365-thumbnail.jpg" alt="" width="540" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/FB_IMG_1493623527400.jpg" data-size="552x414"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/FB_IMG_1493623527400-thumbnail.jpg" alt="" width="552" height="414"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/FB_IMG_1493623537476.jpg" data-size="540x720"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/FB_IMG_1493623537476-thumbnail.jpg" alt="" width="540" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/FB_IMG_1493623548943.jpg" data-size="552x414"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/FB_IMG_1493623548943-thumbnail.jpg" alt="" width="552" height="414"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/FB_IMG_1493623555604.jpg" data-size="552x414"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/FB_IMG_1493623555604-thumbnail.jpg" alt="" width="552" height="414"></a></figure>
+<figure class="gallery__item"><a href="https://www.rebeen.art/media/posts/15/gallery/FB_IMG_1493623566365.jpg" data-size="540x720"><img loading="lazy" src="https://www.rebeen.art/media/posts/15/gallery/FB_IMG_1493623566365-thumbnail.jpg" alt="" width="540" height="720"></a></figure>
 </div></div>
 <p><strong>2015 Seminar at Sulaymaniah University.</strong></p>
 <p>The seminar at Sulaymaniyah College was partially similar to the first seminar at Goldsmith's College, but this time among Kurdish students and the discussions were also in Kurdish. Beside the bucket, water was leaking; it didn't need extra parts attached to it to control the drops of water. </p>
@@ -626,8 +626,8 @@
         <author>
             <name>Rebeen Hamarafiq</name>
         </author>
-        <link href="https://rebeen.art/dropping.html"/>
-        <id>https://rebeen.art/dropping.html</id>
+        <link href="https://www.rebeen.art/dropping.html"/>
+        <id>https://www.rebeen.art/dropping.html</id>
             <category term="Art &amp; Projects"/>
 
         <updated>2026-09-26T02:39:18+02:00</updated>
@@ -639,19 +639,19 @@
         <content type="html">
             <![CDATA[
                 <p><strong>DROPPING Performance staged for camera, 2014.</strong></p>
-<figure class="post__image post__image--center"><code><img loading="lazy"  src="https://rebeen.art/media/posts/14/3-Dropping-12-copy-2.jpg" alt="" width="1708" height="3984" sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-xs.jpg 300w ,https://rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-sm.jpg 480w ,https://rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-md.jpg 768w ,https://rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-lg.jpg 1024w ,https://rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-xl.jpg 1360w ,https://rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-2xl.jpg 1600w"></figure></code><em>Camera, Red one 4K, 7:28 minutes: by Rebeen and Rozhgar Mustafa</em></p>
+<figure class="post__image post__image--center"><code><img loading="lazy"  src="https://www.rebeen.art/media/posts/14/3-Dropping-12-copy-2.jpg" alt="" width="1708" height="3984" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-xs.jpg 300w ,https://www.rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-sm.jpg 480w ,https://www.rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-md.jpg 768w ,https://www.rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-lg.jpg 1024w ,https://www.rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-xl.jpg 1360w ,https://www.rebeen.art/media/posts/14/responsive/3-Dropping-12-copy-2-2xl.jpg 1600w"></figure></code><em>Camera, Red one 4K, 7:28 minutes: by Rebeen and Rozhgar Mustafa</em></p>
 <p><strong>Alternativa 2014, Gdansk Poland</strong></p>
 <p>“Dropping” is a direct-to-camera performance recording by Rebeen Hamarafiq. Drops of milk fall at regular intervals onto the naked head of the artist filmed against a black background. Within a few minutes a small puddle of milk is formed on the top of the artist’s skull, and a thin trickle runs down his weary face. What we see is an obvious reference to the so-called Chinese water torture, in which cold water is slowly dripped onto the victim’s head. Seemingly mild and “humane”, deprived of spectacular violence and bloodshed, it is in reality painful, mentally debilitating and considered one of the most effective.</p>
 <p><strong>2014 Degree Show, Goldsmiths.</strong></p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rebeen.art/media/posts/14/4-droping-copy.jpg" alt="" width="3264" height="4352" sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/14/responsive/4-droping-copy-xs.jpg 300w ,https://rebeen.art/media/posts/14/responsive/4-droping-copy-sm.jpg 480w ,https://rebeen.art/media/posts/14/responsive/4-droping-copy-md.jpg 768w ,https://rebeen.art/media/posts/14/responsive/4-droping-copy-lg.jpg 1024w ,https://rebeen.art/media/posts/14/responsive/4-droping-copy-xl.jpg 1360w ,https://rebeen.art/media/posts/14/responsive/4-droping-copy-2xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rebeen.art/media/posts/14/4-droping-copy.jpg" alt="" width="3264" height="4352" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/14/responsive/4-droping-copy-xs.jpg 300w ,https://www.rebeen.art/media/posts/14/responsive/4-droping-copy-sm.jpg 480w ,https://www.rebeen.art/media/posts/14/responsive/4-droping-copy-md.jpg 768w ,https://www.rebeen.art/media/posts/14/responsive/4-droping-copy-lg.jpg 1024w ,https://www.rebeen.art/media/posts/14/responsive/4-droping-copy-xl.jpg 1360w ,https://www.rebeen.art/media/posts/14/responsive/4-droping-copy-2xl.jpg 1600w"></figure>
 <p> </p>
 <p>In the degree show at Goldsmiths, the work was shown with another work to build a space between swinging and looking at the video of the performance while the swing was 6 metres high; one was able to enjoy the dropping of the milk and build a space between enjoying swinging and watching the Chinese torture. The swings were made in my village, Delezha, by three old women as a collaborative work, encouraging them to build the biggest (guriss); the Kurdish name for the rope that the swing is made of. And while they had to make it very big, 14 metres long and four times thicker than normal ones-the work became work for many others to help them in the collaborative work they participated.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rebeen.art/media/posts/14/5-1200x800.jpg" alt="" width="1200" height="800" sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/14/responsive/5-1200x800-xs.jpg 300w ,https://rebeen.art/media/posts/14/responsive/5-1200x800-sm.jpg 480w ,https://rebeen.art/media/posts/14/responsive/5-1200x800-md.jpg 768w ,https://rebeen.art/media/posts/14/responsive/5-1200x800-lg.jpg 1024w ,https://rebeen.art/media/posts/14/responsive/5-1200x800-xl.jpg 1360w ,https://rebeen.art/media/posts/14/responsive/5-1200x800-2xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rebeen.art/media/posts/14/5-1200x800.jpg" alt="" width="1200" height="800" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/14/responsive/5-1200x800-xs.jpg 300w ,https://www.rebeen.art/media/posts/14/responsive/5-1200x800-sm.jpg 480w ,https://www.rebeen.art/media/posts/14/responsive/5-1200x800-md.jpg 768w ,https://www.rebeen.art/media/posts/14/responsive/5-1200x800-lg.jpg 1024w ,https://www.rebeen.art/media/posts/14/responsive/5-1200x800-xl.jpg 1360w ,https://www.rebeen.art/media/posts/14/responsive/5-1200x800-2xl.jpg 1600w"></figure>
 <p><strong>2020 Arsenal Gallery power station, ul. Elektryczna 13, Białystok</strong></p>
 <p>At Arsenal Gallery, Hamarafiq’s video is installed in a space below the level of the exhibition – the basement area symbolizing a torture chamber or prison, but also the humiliation of the victims of the abuse. The theme of torture often appears in the works of Kurdish artists, which has an obvious connection with the history of their nation and the painful experiences of their families and friends.<br>The motif of dripping milk also refers to Hamarafiq’s experience of fatherhood. The artist looked after his newborn daughter while his wife was working toward her university degree. Attempting to cope with a new situation, weary with the day-to-day monotony and challenges, the artist was also haunted by fear for his daughter’s future. It stemmed from, on the one hand, the artist’s memories of his own difficult childhood in Kurdistan under Saddam Hussein and, on the other, his desire to protect his daughter from experiencing Kurdish women’s sense of being unable to break through their limiting social, religious and cultural circumstances.</p>
 <p><strong><a href="https://www.ammrovanakaardakan.com/activity/dropping" target="_blank" rel="noopener noreferrer">2021 Am Mrovane Kardeken</a></strong></p>
 <p><strong>Esta Gallery2 in the Culture Factory of Sulaimany</strong></p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rebeen.art/media/posts/14/p2.jpg" alt="" width="1000" height="1093" sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/14/responsive/p2-xs.jpg 300w ,https://rebeen.art/media/posts/14/responsive/p2-sm.jpg 480w ,https://rebeen.art/media/posts/14/responsive/p2-md.jpg 768w ,https://rebeen.art/media/posts/14/responsive/p2-lg.jpg 1024w ,https://rebeen.art/media/posts/14/responsive/p2-xl.jpg 1360w ,https://rebeen.art/media/posts/14/responsive/p2-2xl.jpg 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rebeen.art/media/posts/14/p2.jpg" alt="" width="1000" height="1093" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/14/responsive/p2-xs.jpg 300w ,https://www.rebeen.art/media/posts/14/responsive/p2-sm.jpg 480w ,https://www.rebeen.art/media/posts/14/responsive/p2-md.jpg 768w ,https://www.rebeen.art/media/posts/14/responsive/p2-lg.jpg 1024w ,https://www.rebeen.art/media/posts/14/responsive/p2-xl.jpg 1360w ,https://www.rebeen.art/media/posts/14/responsive/p2-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -660,8 +660,8 @@
         <author>
             <name>Rebeen Hamarafiq</name>
         </author>
-        <link href="https://rebeen.art/heads-back.html"/>
-        <id>https://rebeen.art/heads-back.html</id>
+        <link href="https://www.rebeen.art/heads-back.html"/>
+        <id>https://www.rebeen.art/heads-back.html</id>
             <category term="Art works"/>
             <category term="Art Projects"/>
             <category term="Art &amp; Projects"/>
@@ -674,7 +674,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--full"><img loading="lazy"  src="https://rebeen.art/media/posts/13/1-Heads-back-2.jpg" alt="" width="2112" height="2334" sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-xs.jpg 300w ,https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-sm.jpg 480w ,https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-md.jpg 768w ,https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-lg.jpg 1024w ,https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-xl.jpg 1360w ,https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-2xl.jpg 1600w"></figure>
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://www.rebeen.art/media/posts/13/1-Heads-back-2.jpg" alt="" width="2112" height="2334" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.rebeen.art/media/posts/13/responsive/1-Heads-back-2-xs.jpg 300w ,https://www.rebeen.art/media/posts/13/responsive/1-Heads-back-2-sm.jpg 480w ,https://www.rebeen.art/media/posts/13/responsive/1-Heads-back-2-md.jpg 768w ,https://www.rebeen.art/media/posts/13/responsive/1-Heads-back-2-lg.jpg 1024w ,https://www.rebeen.art/media/posts/13/responsive/1-Heads-back-2-xl.jpg 1360w ,https://www.rebeen.art/media/posts/13/responsive/1-Heads-back-2-2xl.jpg 1600w"></figure>
 <p>Photos of the head: Soran Salam</p>
 <p>2005 Head’s back</p>
 <p>The work combines fifteen prints in various tones but the same original photographs of my head; my effort was to rebuild the part we missed because of culture. At the time, there was a big positivity toward anything related to Kurdish culture, but in the work I was trying to look at culture critically.</p>

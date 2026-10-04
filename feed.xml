@@ -3,12 +3,33 @@
     <title>rebeen.art</title>
     <link href="https://rebeen.art/feed.xml" rel="self" />
     <link href="https://rebeen.art" />
-    <updated>2026-09-30T01:37:40+02:00</updated>
+    <updated>2026-10-04T20:07:03+02:00</updated>
     <author>
         <name>Rebeen Hamarafiq</name>
     </author>
     <id>https://rebeen.art</id>
 
+    <entry>
+        <title>Archive of Publications &amp; Interviews  </title>
+        <author>
+            <name>Rebeen Hamarafiq</name>
+        </author>
+        <link href="https://rebeen.art/archive-of-publications-and-interviews.html"/>
+        <id>https://rebeen.art/archive-of-publications-and-interviews.html</id>
+
+        <updated>2026-10-04T20:07:03+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This page will show the archive of interviews and publications that published about activities, exhibitions Curating. and Also researches and published Articles.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This page will show the archive of interviews and publications that published about activities, exhibitions Curating. and Also researches and published Articles.</p><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/NGfv7XVdf9o?si=rn84kJ6PzUORpqZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2014--2023 The Chess board Game</title>
         <author>
@@ -652,35 +673,6 @@
 <p><strong><a href="https://www.ammrovanakaardakan.com/activity/dropping" target="_blank" rel="noopener noreferrer">2021 Am Mrovane Kardeken</a></strong></p>
 <p><strong>Esta Gallery2 in the Culture Factory of Sulaimany</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://rebeen.art/media/posts/14/p2.jpg" alt="" width="1000" height="1093" sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/14/responsive/p2-xs.jpg 300w ,https://rebeen.art/media/posts/14/responsive/p2-sm.jpg 480w ,https://rebeen.art/media/posts/14/responsive/p2-md.jpg 768w ,https://rebeen.art/media/posts/14/responsive/p2-lg.jpg 1024w ,https://rebeen.art/media/posts/14/responsive/p2-xl.jpg 1360w ,https://rebeen.art/media/posts/14/responsive/p2-2xl.jpg 1600w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Head&#x27;s Back</title>
-        <author>
-            <name>Rebeen Hamarafiq</name>
-        </author>
-        <link href="https://rebeen.art/heads-back.html"/>
-        <id>https://rebeen.art/heads-back.html</id>
-            <category term="Art works"/>
-            <category term="Art Projects"/>
-            <category term="Art &amp; Projects"/>
-
-        <updated>2026-09-26T01:41:48+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Photos of the head: Soran Salam 2005 Head’s back The work combines fifteen prints in various tones but the same original photographs of&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--full"><img loading="lazy"  src="https://rebeen.art/media/posts/13/1-Heads-back-2.jpg" alt="" width="2112" height="2334" sizes="(max-width: 48em) 100vw, 768px" srcset="https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-xs.jpg 300w ,https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-sm.jpg 480w ,https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-md.jpg 768w ,https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-lg.jpg 1024w ,https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-xl.jpg 1360w ,https://rebeen.art/media/posts/13/responsive/1-Heads-back-2-2xl.jpg 1600w"></figure>
-<p>Photos of the head: Soran Salam</p>
-<p>2005 Head’s back</p>
-<p>The work combines fifteen prints in various tones but the same original photographs of my head; my effort was to rebuild the part we missed because of culture. At the time, there was a big positivity toward anything related to Kurdish culture, but in the work I was trying to look at culture critically.</p>
-<p><br>Children in Kurdistan were tied up inside a cradle when they were born until they became older and could no longer stay in the cradle; in this process, the soft part at the child's head's back becomes pressed and flattened. This depressed part of the head metaphorically leaves a bigger depression in humans when they grow, as they are effortfully trying to rebuild their lost part.</p>
-<p>The work was part of the 2005 Project exhibition; at the time, it was a new effort from our younger generation to discover working with other media and concepts outside painting. </p>
-<p> </p>
             ]]>
         </content>
     </entry>

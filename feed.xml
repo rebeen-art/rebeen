@@ -3,7 +3,7 @@
     <title>rebeen.art</title>
     <link href="https://rebeen.art/feed.xml" rel="self" />
     <link href="https://rebeen.art" />
-    <updated>2026-10-23T10:53:43+02:00</updated>
+    <updated>2026-10-27T22:39:27+01:00</updated>
     <author>
         <name>Rebeen Hamarafiq</name>
     </author>
@@ -72,6 +72,10 @@
       Chesign. 2023
     </h2>
 
+  <p>
+    In a workshop for the students of (Design Academy Iraq) I invited students to reinvent their new games in a way that reflects their vision for the world. The workshop lasted one week, and participants began building completely new games based on the issues they chose.
+  </p>
+
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
@@ -97,10 +101,6 @@
     </figure>
     </div>
   </div>
-
-  <p>
-    In a workshop for the students of (Design Academy Iraq) I invited students to reinvent their new games in a way that reflects their vision for the world. The workshop lasted one week, and participants began building completely new games based on the issues they chose.
-  </p>
 
     <h2 id="2005-the-first-board">
       2005 The First Board
@@ -213,7 +213,6 @@
         </author>
         <link href="https://rebeen.art/am-mrovana-kar-dakan/"/>
         <id>https://rebeen.art/am-mrovana-kar-dakan/</id>
-            <category term="Art Projects"/>
             <category term="Art &amp; Projects"/>
 
         <updated>2021-07-10T22:29:00+02:00</updated>
